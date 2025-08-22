@@ -10,8 +10,7 @@ A fully functional Arkanoid game applying advanced object-oriented principles (i
 
 ##  Features
 -  Paddle & ball physics  
-- Breakable bricks with multiple strengths  
--  Multiple levels with increasing difficulty  
+- Breakable bricks 
 - Score tracking & lives system  
 -  Simple graphics with clear separation between game logic and rendering  
 
@@ -25,5 +24,6 @@ From the project root:
 javac -d bin src/**/*.java
 
 ![Uploading image.png…]()
+
 
 
