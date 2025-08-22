@@ -24,7 +24,3 @@ From the project root:
 javac -d bin src/**/*.java
 
 
-
-
-
-
