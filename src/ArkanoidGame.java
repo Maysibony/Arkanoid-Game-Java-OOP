@@ -3,7 +3,7 @@ import game.Game;
 /**
  * play game.
  */
-public class Ass5Game {
+public class ArkanoidGame {
     /**
      * main method.
      * @param args
