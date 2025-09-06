@@ -4,7 +4,10 @@ A fully functional Arkanoid game applying advanced object-oriented principles (i
  Implemented collision detection, scoring system, and ball/paddle mechanics.
  Designed modular architecture with multiple packages.
  Utilized the Listener pattern for event handling and real-time score updates.
-![gif](https://github.com/user-attachments/assets/c7015735-b796-44c9-8f01-d436ff930725)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7015735-b796-44c9-8f01-d436ff930725" width="795" height="598">
+</p>
+
 
 ---
 
@@ -23,6 +26,7 @@ From the project root:
 ```bash
 javac -d bin src/**/*.java
 java -cp bin game.ArkanoidGame
+
 
 
 
