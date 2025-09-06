@@ -5,8 +5,9 @@ A fully functional Arkanoid game applying advanced object-oriented principles (i
  Designed modular architecture with multiple packages.
  Utilized the Listener pattern for event handling and real-time score updates.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7015735-b796-44c9-8f01-d436ff930725" width="795" height="598">
+  <img src="https://github.com/user-attachments/assets/c7015735-b796-44c9-8f01-d436ff930725" width="398" height="299">
 </p>
+
 
 
 ---
@@ -26,6 +27,7 @@ From the project root:
 ```bash
 javac -d bin src/**/*.java
 java -cp bin game.ArkanoidGame
+
 
 
 
